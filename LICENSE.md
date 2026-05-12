@@ -1,4 +1,4 @@
-# 
+# advanced Polymarket Module | decentralized-trading + sentiment-analysis is the best Polymarket module, featuring decentralized-trading and sentiment-analysis. Smart, fast, and
 
 
 
